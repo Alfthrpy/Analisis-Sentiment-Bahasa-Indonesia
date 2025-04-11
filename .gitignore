@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+.venv.bak/
+
+model_tokenizer_bilstm_logres/
+saved_model/
